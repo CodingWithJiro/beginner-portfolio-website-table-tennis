@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8c2cb28c-90c0-4079-97d3-5f7dde057c3b/deploy-status)](https://table-tennis-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website-table-tennis&left_text=repo%20views)
 
 ## ℹ️ A Sports Facts Website using HTML and Minimal CSS
 

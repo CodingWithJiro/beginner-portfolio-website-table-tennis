@@ -1,4 +1,4 @@
-# 💻 Table Tennis Website
+# Table Tennis Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website-table-tennis&left_text=repo%20views)
 
-## ℹ️ A Sports Facts Website using HTML and Minimal CSS
+## A Sports Facts Website using HTML and Minimal CSS
 
 ![Screenshot of the project](./screenshot.png)
 
@@ -23,7 +23,7 @@ A HTML website with minimal CSS built as part of my earliest lessons in frontend
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project displays a fictional table tennis tournament leaderboard using semantic HTML and light CSS styling. I built this as a continuation of learning how to structure real-world data on the web.
 
@@ -31,7 +31,7 @@ It includes a ranked leaderboard, a breakdown of official rules, and a tournamen
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic HTML5 Structure
 - Accessible Table Design
@@ -44,7 +44,7 @@ It includes a ranked leaderboard, a breakdown of official rules, and a tournamen
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure tabular data using `<table>`, `<thead>`, `<tbody>`, and `<tfoot>`
 - When to use `<section>` vs. `<article>`
@@ -55,7 +55,7 @@ It includes a ranked leaderboard, a breakdown of official rules, and a tournamen
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS (minimal)
@@ -65,23 +65,23 @@ It includes a ranked leaderboard, a breakdown of official rules, and a tournamen
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://table-tennis-jiro.netlify.app/)
+Or you can check out the **[live website here](https://table-tennis-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
